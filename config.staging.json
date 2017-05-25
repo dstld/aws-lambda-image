@@ -1,0 +1,9 @@
+{
+  "bucket": "dstld-staging-optimized",
+  "reduce": {
+      "directory": "./optimized",
+      "quality": 50,
+      "acl": "public-read"
+  },
+  "resizes": []
+}
